@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "S4eN9HONtJY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tosun\\Downloads\\görsel proje-20250408T204838Z-001\\görsel proje\\emniyetProjeSınıflaraAyrılmış\\emniyetProjeSınıflaraAyrılmış\\emniyetproje(eski çalışan)\\emniyetproje\\emniyetproje.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tosun\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\tosun\\.nuget\\packages\\system.configuration.configurationmanager\\7.0.0\\system.configuration.configurationmanager.7.0.0.nupkg.sha512",
+    "C:\\Users\\tosun\\.nuget\\packages\\system.data.oledb\\7.0.0\\system.data.oledb.7.0.0.nupkg.sha512",
+    "C:\\Users\\tosun\\.nuget\\packages\\system.diagnostics.performancecounter\\7.0.0\\system.diagnostics.performancecounter.7.0.0.nupkg.sha512",
+    "C:\\Users\\tosun\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512",
+    "C:\\Users\\tosun\\.nuget\\packages\\system.security.cryptography.protecteddata\\7.0.0\\system.security.cryptography.protecteddata.7.0.0.nupkg.sha512",
+    "C:\\Users\\tosun\\.nuget\\packages\\system.security.permissions\\7.0.0\\system.security.permissions.7.0.0.nupkg.sha512",
+    "C:\\Users\\tosun\\.nuget\\packages\\system.windows.extensions\\7.0.0\\system.windows.extensions.7.0.0.nupkg.sha512",
+    "C:\\Users\\tosun\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\tosun\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\tosun\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\tosun\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.36\\microsoft.netcore.app.host.win-x64.6.0.36.nupkg.sha512"
+  ],
+  "logs": []
+}

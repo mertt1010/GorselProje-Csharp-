@@ -1,0 +1,99 @@
+C:\Users\tosun\OneDrive\Masaüstü\c#\emniyetproje\emniyetproje\bin\x64\Debug\net6.0-windows\emniyetproje.exe
+C:\Users\tosun\OneDrive\Masaüstü\c#\emniyetproje\emniyetproje\bin\x64\Debug\net6.0-windows\emniyetproje.deps.json
+C:\Users\tosun\OneDrive\Masaüstü\c#\emniyetproje\emniyetproje\bin\x64\Debug\net6.0-windows\emniyetproje.runtimeconfig.json
+C:\Users\tosun\OneDrive\Masaüstü\c#\emniyetproje\emniyetproje\bin\x64\Debug\net6.0-windows\emniyetproje.dll
+C:\Users\tosun\OneDrive\Masaüstü\c#\emniyetproje\emniyetproje\bin\x64\Debug\net6.0-windows\emniyetproje.pdb
+C:\Users\tosun\OneDrive\Masaüstü\c#\emniyetproje\emniyetproje\obj\x64\Debug\net6.0-windows\emniyetproje.csproj.AssemblyReference.cache
+C:\Users\tosun\OneDrive\Masaüstü\c#\emniyetproje\emniyetproje\obj\x64\Debug\net6.0-windows\emniyetproje.Form1.resources
+C:\Users\tosun\OneDrive\Masaüstü\c#\emniyetproje\emniyetproje\obj\x64\Debug\net6.0-windows\emniyetproje.csproj.GenerateResource.cache
+C:\Users\tosun\OneDrive\Masaüstü\c#\emniyetproje\emniyetproje\obj\x64\Debug\net6.0-windows\emniyetproje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tosun\OneDrive\Masaüstü\c#\emniyetproje\emniyetproje\obj\x64\Debug\net6.0-windows\emniyetproje.AssemblyInfoInputs.cache
+C:\Users\tosun\OneDrive\Masaüstü\c#\emniyetproje\emniyetproje\obj\x64\Debug\net6.0-windows\emniyetproje.AssemblyInfo.cs
+C:\Users\tosun\OneDrive\Masaüstü\c#\emniyetproje\emniyetproje\obj\x64\Debug\net6.0-windows\emniyetproje.csproj.CoreCompileInputs.cache
+C:\Users\tosun\OneDrive\Masaüstü\c#\emniyetproje\emniyetproje\obj\x64\Debug\net6.0-windows\emniyetproje.dll
+C:\Users\tosun\OneDrive\Masaüstü\c#\emniyetproje\emniyetproje\obj\x64\Debug\net6.0-windows\refint\emniyetproje.dll
+C:\Users\tosun\OneDrive\Masaüstü\c#\emniyetproje\emniyetproje\obj\x64\Debug\net6.0-windows\emniyetproje.pdb
+C:\Users\tosun\OneDrive\Masaüstü\c#\emniyetproje\emniyetproje\obj\x64\Debug\net6.0-windows\emniyetproje.genruntimeconfig.cache
+C:\Users\tosun\OneDrive\Masaüstü\c#\emniyetproje\emniyetproje\obj\x64\Debug\net6.0-windows\ref\emniyetproje.dll
+C:\Users\tosun\OneDrive\Masaüstü\c#\emniyetproje\emniyetproje\bin\x64\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\tosun\OneDrive\Masaüstü\c#\emniyetproje\emniyetproje\bin\x64\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\tosun\OneDrive\Masaüstü\c#\emniyetproje\emniyetproje\bin\x64\Debug\net6.0-windows\System.Data.OleDb.dll
+C:\Users\tosun\OneDrive\Masaüstü\c#\emniyetproje\emniyetproje\bin\x64\Debug\net6.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\tosun\OneDrive\Masaüstü\c#\emniyetproje\emniyetproje\bin\x64\Debug\net6.0-windows\System.Drawing.Common.dll
+C:\Users\tosun\OneDrive\Masaüstü\c#\emniyetproje\emniyetproje\bin\x64\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tosun\OneDrive\Masaüstü\c#\emniyetproje\emniyetproje\bin\x64\Debug\net6.0-windows\System.Security.Permissions.dll
+C:\Users\tosun\OneDrive\Masaüstü\c#\emniyetproje\emniyetproje\bin\x64\Debug\net6.0-windows\System.Windows.Extensions.dll
+C:\Users\tosun\OneDrive\Masaüstü\c#\emniyetproje\emniyetproje\bin\x64\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\tosun\OneDrive\Masaüstü\c#\emniyetproje\emniyetproje\bin\x64\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+C:\Users\tosun\OneDrive\Masaüstü\c#\emniyetproje\emniyetproje\bin\x64\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\tosun\OneDrive\Masaüstü\c#\emniyetproje\emniyetproje\bin\x64\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\tosun\OneDrive\Masaüstü\c#\emniyetproje\emniyetproje\bin\x64\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tosun\OneDrive\Masaüstü\c#\emniyetproje\emniyetproje\bin\x64\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\tosun\OneDrive\Masaüstü\c#\emniyetproje\emniyetproje\obj\x64\Debug\net6.0-windows\emniyetproje.csproj.CopyComplete
+C:\Users\tosun\OneDrive\Masaüstü\c#\emniyetproje(eski çalışan)\emniyetproje\bin\x64\Debug\net6.0-windows\emniyetproje.exe
+C:\Users\tosun\OneDrive\Masaüstü\c#\emniyetproje(eski çalışan)\emniyetproje\bin\x64\Debug\net6.0-windows\emniyetproje.deps.json
+C:\Users\tosun\OneDrive\Masaüstü\c#\emniyetproje(eski çalışan)\emniyetproje\bin\x64\Debug\net6.0-windows\emniyetproje.runtimeconfig.json
+C:\Users\tosun\OneDrive\Masaüstü\c#\emniyetproje(eski çalışan)\emniyetproje\bin\x64\Debug\net6.0-windows\emniyetproje.dll
+C:\Users\tosun\OneDrive\Masaüstü\c#\emniyetproje(eski çalışan)\emniyetproje\bin\x64\Debug\net6.0-windows\emniyetproje.pdb
+C:\Users\tosun\OneDrive\Masaüstü\c#\emniyetproje(eski çalışan)\emniyetproje\bin\x64\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\tosun\OneDrive\Masaüstü\c#\emniyetproje(eski çalışan)\emniyetproje\bin\x64\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\tosun\OneDrive\Masaüstü\c#\emniyetproje(eski çalışan)\emniyetproje\bin\x64\Debug\net6.0-windows\System.Data.OleDb.dll
+C:\Users\tosun\OneDrive\Masaüstü\c#\emniyetproje(eski çalışan)\emniyetproje\bin\x64\Debug\net6.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\tosun\OneDrive\Masaüstü\c#\emniyetproje(eski çalışan)\emniyetproje\bin\x64\Debug\net6.0-windows\System.Drawing.Common.dll
+C:\Users\tosun\OneDrive\Masaüstü\c#\emniyetproje(eski çalışan)\emniyetproje\bin\x64\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tosun\OneDrive\Masaüstü\c#\emniyetproje(eski çalışan)\emniyetproje\bin\x64\Debug\net6.0-windows\System.Security.Permissions.dll
+C:\Users\tosun\OneDrive\Masaüstü\c#\emniyetproje(eski çalışan)\emniyetproje\bin\x64\Debug\net6.0-windows\System.Windows.Extensions.dll
+C:\Users\tosun\OneDrive\Masaüstü\c#\emniyetproje(eski çalışan)\emniyetproje\bin\x64\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\tosun\OneDrive\Masaüstü\c#\emniyetproje(eski çalışan)\emniyetproje\bin\x64\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+C:\Users\tosun\OneDrive\Masaüstü\c#\emniyetproje(eski çalışan)\emniyetproje\bin\x64\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\tosun\OneDrive\Masaüstü\c#\emniyetproje(eski çalışan)\emniyetproje\bin\x64\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\tosun\OneDrive\Masaüstü\c#\emniyetproje(eski çalışan)\emniyetproje\bin\x64\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tosun\OneDrive\Masaüstü\c#\emniyetproje(eski çalışan)\emniyetproje\bin\x64\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\tosun\OneDrive\Masaüstü\c#\emniyetproje(eski çalışan)\emniyetproje\obj\x64\Debug\net6.0-windows\emniyetproje.csproj.AssemblyReference.cache
+C:\Users\tosun\OneDrive\Masaüstü\c#\emniyetproje(eski çalışan)\emniyetproje\obj\x64\Debug\net6.0-windows\emniyetproje.Form1.resources
+C:\Users\tosun\OneDrive\Masaüstü\c#\emniyetproje(eski çalışan)\emniyetproje\obj\x64\Debug\net6.0-windows\emniyetproje.csproj.GenerateResource.cache
+C:\Users\tosun\OneDrive\Masaüstü\c#\emniyetproje(eski çalışan)\emniyetproje\obj\x64\Debug\net6.0-windows\emniyetproje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tosun\OneDrive\Masaüstü\c#\emniyetproje(eski çalışan)\emniyetproje\obj\x64\Debug\net6.0-windows\emniyetproje.AssemblyInfoInputs.cache
+C:\Users\tosun\OneDrive\Masaüstü\c#\emniyetproje(eski çalışan)\emniyetproje\obj\x64\Debug\net6.0-windows\emniyetproje.AssemblyInfo.cs
+C:\Users\tosun\OneDrive\Masaüstü\c#\emniyetproje(eski çalışan)\emniyetproje\obj\x64\Debug\net6.0-windows\emniyetproje.csproj.CoreCompileInputs.cache
+C:\Users\tosun\OneDrive\Masaüstü\c#\emniyetproje(eski çalışan)\emniyetproje\obj\x64\Debug\net6.0-windows\emniyetproje.csproj.CopyComplete
+C:\Users\tosun\OneDrive\Masaüstü\c#\emniyetproje(eski çalışan)\emniyetproje\obj\x64\Debug\net6.0-windows\emniyetproje.dll
+C:\Users\tosun\OneDrive\Masaüstü\c#\emniyetproje(eski çalışan)\emniyetproje\obj\x64\Debug\net6.0-windows\refint\emniyetproje.dll
+C:\Users\tosun\OneDrive\Masaüstü\c#\emniyetproje(eski çalışan)\emniyetproje\obj\x64\Debug\net6.0-windows\emniyetproje.pdb
+C:\Users\tosun\OneDrive\Masaüstü\c#\emniyetproje(eski çalışan)\emniyetproje\obj\x64\Debug\net6.0-windows\emniyetproje.genruntimeconfig.cache
+C:\Users\tosun\OneDrive\Masaüstü\c#\emniyetproje(eski çalışan)\emniyetproje\obj\x64\Debug\net6.0-windows\ref\emniyetproje.dll
+C:\Users\tosun\OneDrive\Masaüstü\görsel proje\emniyetProjeSınıflaraAyrılmış\emniyetProjeSınıflaraAyrılmış\emniyetproje(eski çalışan)\emniyetproje\bin\x64\Debug\net6.0-windows\emniyetproje.exe
+C:\Users\tosun\OneDrive\Masaüstü\görsel proje\emniyetProjeSınıflaraAyrılmış\emniyetProjeSınıflaraAyrılmış\emniyetproje(eski çalışan)\emniyetproje\bin\x64\Debug\net6.0-windows\emniyetproje.deps.json
+C:\Users\tosun\OneDrive\Masaüstü\görsel proje\emniyetProjeSınıflaraAyrılmış\emniyetProjeSınıflaraAyrılmış\emniyetproje(eski çalışan)\emniyetproje\bin\x64\Debug\net6.0-windows\emniyetproje.runtimeconfig.json
+C:\Users\tosun\OneDrive\Masaüstü\görsel proje\emniyetProjeSınıflaraAyrılmış\emniyetProjeSınıflaraAyrılmış\emniyetproje(eski çalışan)\emniyetproje\bin\x64\Debug\net6.0-windows\emniyetproje.dll
+C:\Users\tosun\OneDrive\Masaüstü\görsel proje\emniyetProjeSınıflaraAyrılmış\emniyetProjeSınıflaraAyrılmış\emniyetproje(eski çalışan)\emniyetproje\bin\x64\Debug\net6.0-windows\emniyetproje.pdb
+C:\Users\tosun\OneDrive\Masaüstü\görsel proje\emniyetProjeSınıflaraAyrılmış\emniyetProjeSınıflaraAyrılmış\emniyetproje(eski çalışan)\emniyetproje\bin\x64\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\tosun\OneDrive\Masaüstü\görsel proje\emniyetProjeSınıflaraAyrılmış\emniyetProjeSınıflaraAyrılmış\emniyetproje(eski çalışan)\emniyetproje\bin\x64\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\tosun\OneDrive\Masaüstü\görsel proje\emniyetProjeSınıflaraAyrılmış\emniyetProjeSınıflaraAyrılmış\emniyetproje(eski çalışan)\emniyetproje\bin\x64\Debug\net6.0-windows\System.Data.OleDb.dll
+C:\Users\tosun\OneDrive\Masaüstü\görsel proje\emniyetProjeSınıflaraAyrılmış\emniyetProjeSınıflaraAyrılmış\emniyetproje(eski çalışan)\emniyetproje\bin\x64\Debug\net6.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\tosun\OneDrive\Masaüstü\görsel proje\emniyetProjeSınıflaraAyrılmış\emniyetProjeSınıflaraAyrılmış\emniyetproje(eski çalışan)\emniyetproje\bin\x64\Debug\net6.0-windows\System.Drawing.Common.dll
+C:\Users\tosun\OneDrive\Masaüstü\görsel proje\emniyetProjeSınıflaraAyrılmış\emniyetProjeSınıflaraAyrılmış\emniyetproje(eski çalışan)\emniyetproje\bin\x64\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tosun\OneDrive\Masaüstü\görsel proje\emniyetProjeSınıflaraAyrılmış\emniyetProjeSınıflaraAyrılmış\emniyetproje(eski çalışan)\emniyetproje\bin\x64\Debug\net6.0-windows\System.Security.Permissions.dll
+C:\Users\tosun\OneDrive\Masaüstü\görsel proje\emniyetProjeSınıflaraAyrılmış\emniyetProjeSınıflaraAyrılmış\emniyetproje(eski çalışan)\emniyetproje\bin\x64\Debug\net6.0-windows\System.Windows.Extensions.dll
+C:\Users\tosun\OneDrive\Masaüstü\görsel proje\emniyetProjeSınıflaraAyrılmış\emniyetProjeSınıflaraAyrılmış\emniyetproje(eski çalışan)\emniyetproje\bin\x64\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\tosun\OneDrive\Masaüstü\görsel proje\emniyetProjeSınıflaraAyrılmış\emniyetProjeSınıflaraAyrılmış\emniyetproje(eski çalışan)\emniyetproje\bin\x64\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+C:\Users\tosun\OneDrive\Masaüstü\görsel proje\emniyetProjeSınıflaraAyrılmış\emniyetProjeSınıflaraAyrılmış\emniyetproje(eski çalışan)\emniyetproje\bin\x64\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\tosun\OneDrive\Masaüstü\görsel proje\emniyetProjeSınıflaraAyrılmış\emniyetProjeSınıflaraAyrılmış\emniyetproje(eski çalışan)\emniyetproje\bin\x64\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\tosun\OneDrive\Masaüstü\görsel proje\emniyetProjeSınıflaraAyrılmış\emniyetProjeSınıflaraAyrılmış\emniyetproje(eski çalışan)\emniyetproje\bin\x64\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tosun\OneDrive\Masaüstü\görsel proje\emniyetProjeSınıflaraAyrılmış\emniyetProjeSınıflaraAyrılmış\emniyetproje(eski çalışan)\emniyetproje\bin\x64\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\tosun\OneDrive\Masaüstü\görsel proje\emniyetProjeSınıflaraAyrılmış\emniyetProjeSınıflaraAyrılmış\emniyetproje(eski çalışan)\emniyetproje\obj\x64\Debug\net6.0-windows\emniyetproje.csproj.AssemblyReference.cache
+C:\Users\tosun\OneDrive\Masaüstü\görsel proje\emniyetProjeSınıflaraAyrılmış\emniyetProjeSınıflaraAyrılmış\emniyetproje(eski çalışan)\emniyetproje\obj\x64\Debug\net6.0-windows\emniyetproje.Form1.resources
+C:\Users\tosun\OneDrive\Masaüstü\görsel proje\emniyetProjeSınıflaraAyrılmış\emniyetProjeSınıflaraAyrılmış\emniyetproje(eski çalışan)\emniyetproje\obj\x64\Debug\net6.0-windows\emniyetproje.csproj.GenerateResource.cache
+C:\Users\tosun\OneDrive\Masaüstü\görsel proje\emniyetProjeSınıflaraAyrılmış\emniyetProjeSınıflaraAyrılmış\emniyetproje(eski çalışan)\emniyetproje\obj\x64\Debug\net6.0-windows\emniyetproje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tosun\OneDrive\Masaüstü\görsel proje\emniyetProjeSınıflaraAyrılmış\emniyetProjeSınıflaraAyrılmış\emniyetproje(eski çalışan)\emniyetproje\obj\x64\Debug\net6.0-windows\emniyetproje.AssemblyInfoInputs.cache
+C:\Users\tosun\OneDrive\Masaüstü\görsel proje\emniyetProjeSınıflaraAyrılmış\emniyetProjeSınıflaraAyrılmış\emniyetproje(eski çalışan)\emniyetproje\obj\x64\Debug\net6.0-windows\emniyetproje.AssemblyInfo.cs
+C:\Users\tosun\OneDrive\Masaüstü\görsel proje\emniyetProjeSınıflaraAyrılmış\emniyetProjeSınıflaraAyrılmış\emniyetproje(eski çalışan)\emniyetproje\obj\x64\Debug\net6.0-windows\emniyetproje.csproj.CoreCompileInputs.cache
+C:\Users\tosun\OneDrive\Masaüstü\görsel proje\emniyetProjeSınıflaraAyrılmış\emniyetProjeSınıflaraAyrılmış\emniyetproje(eski çalışan)\emniyetproje\obj\x64\Debug\net6.0-windows\emniyetproje.csproj.CopyComplete
+C:\Users\tosun\OneDrive\Masaüstü\görsel proje\emniyetProjeSınıflaraAyrılmış\emniyetProjeSınıflaraAyrılmış\emniyetproje(eski çalışan)\emniyetproje\obj\x64\Debug\net6.0-windows\emniyetproje.dll
+C:\Users\tosun\OneDrive\Masaüstü\görsel proje\emniyetProjeSınıflaraAyrılmış\emniyetProjeSınıflaraAyrılmış\emniyetproje(eski çalışan)\emniyetproje\obj\x64\Debug\net6.0-windows\refint\emniyetproje.dll
+C:\Users\tosun\OneDrive\Masaüstü\görsel proje\emniyetProjeSınıflaraAyrılmış\emniyetProjeSınıflaraAyrılmış\emniyetproje(eski çalışan)\emniyetproje\obj\x64\Debug\net6.0-windows\emniyetproje.pdb
+C:\Users\tosun\OneDrive\Masaüstü\görsel proje\emniyetProjeSınıflaraAyrılmış\emniyetProjeSınıflaraAyrılmış\emniyetproje(eski çalışan)\emniyetproje\obj\x64\Debug\net6.0-windows\emniyetproje.genruntimeconfig.cache
+C:\Users\tosun\OneDrive\Masaüstü\görsel proje\emniyetProjeSınıflaraAyrılmış\emniyetProjeSınıflaraAyrılmış\emniyetproje(eski çalışan)\emniyetproje\obj\x64\Debug\net6.0-windows\ref\emniyetproje.dll
+C:\Users\tosun\OneDrive\Masaüstü\görsel proje\emniyetProjeSınıflaraAyrılmış\emniyetProjeSınıflaraAyrılmış\emniyetproje(eski çalışan)\emniyetproje\obj\x64\Debug\net6.0-windows\emniyetproje.Properties.Resources.resources
+C:\Users\tosun\OneDrive\Masaüstü\görsel proje\emniyetProjeSınıflaraAyrılmış\emniyetProjeSınıflaraAyrılmış\emniyetproje(eski çalışan)\emniyetproje\obj\x64\Debug\net6.0-windows\emniyetproje.Form2.resources
+C:\Users\tosun\OneDrive\Masaüstü\görsel proje\emniyetProjeSınıflaraAyrılmış\emniyetProjeSınıflaraAyrılmış\emniyetproje(eski çalışan)\emniyetproje\obj\x64\Debug\net6.0-windows\emniyetproje.Form3.resources
